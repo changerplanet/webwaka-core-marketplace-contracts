@@ -1,0 +1,14 @@
+{
+  "moduleId": "webwaka-core-marketplace-contracts",
+  "name": "WebWaka Core Marketplace Contracts",
+  "version": "0.1.0",
+  "class": "core",
+  "description": "Marketplace agreements and contract management",
+  "capabilities": [],
+  "dependencies": [],
+  "metadata": {
+    "author": "ChangerPlanet",
+    "license": "Proprietary",
+    "repository": "https://github.com/changerplanet/webwaka-core-marketplace-contracts"
+  }
+}
